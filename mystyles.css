@@ -1,0 +1,25 @@
+a:hover {
+	border: thin solid red;
+}
+
+h1, h2 {
+text-transform: uppercase;
+}
+
+p {
+border: wide dashed black;
+margin: 25px;
+}
+
+#top {
+padding: 50px;
+font-size: 200%;
+}
+
+.highlight {
+background-color:yellow;
+}
+
+
+
+
